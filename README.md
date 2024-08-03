@@ -16,6 +16,12 @@ Beyond its core functions, this GPT offers guidance on potential collaborations,
 [Research Planner](https://chatgpt.com/g/g-hdPLRuZph-research-planner)
 <br>
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
+<br>
+[Research Planner](https://github.com/sourceduty/Research_Planner)
+<br>
+[Research Helper](https://chat.openai.com/g/g-4S9pOnFTb-research-helper)
+<br>
+[Business Research](https://chat.openai.com/g/g-G2UxJHRgU-business-research)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
