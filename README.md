@@ -19,6 +19,45 @@ Such a program is considered progressive because it consistently leads to new di
 
 However, an automatically expanding research program is not immune to challenges. It must continually produce novel predictions that are empirically verified to retain its status as progressive. If it fails to do so, it risks becoming stagnant, where new theories or modifications merely explain known facts without predicting new ones, leading to a degenerative phase. In such cases, the program might eventually be supplanted by a competing research program that better addresses the empirical evidence and theoretical challenges, thereby ending its automatic expansion.
 
+<br>
+
+```
+Program
+|
+|-- Initialization
+|   |-- Set up directories
+|   |-- Download NLTK data
+|
+|-- Function Definitions
+|   |-- read_research_problems
+|   |-- write_research_problems
+|   |-- add_research_problem
+|   |-- generate_research_questions
+|   |-- perform_web_search
+|   |-- scrape_web_page
+|   |-- compute_content_hash
+|   |-- is_content_unique
+|   |-- analyze_data
+|   |-- generate_related_terms
+|   |-- expand_research_problems
+|
+|-- Main Loop
+|   |-- Load initial research problems
+|   |-- Iterate (max 5 times)
+|       |-- Generate research questions
+|       |-- Perform web searches
+|       |-- Scrape and save content
+|       |-- Check content uniqueness
+|       |-- Log search URLs
+|       |-- Analyze collected data
+|       |-- Expand and update research problems
+|       |-- Save updated problems
+|       |-- Delay for demonstration
+|
+|-- Completion
+|   |-- Print completion message
+```
+
 #
 ### Related Links
 
