@@ -1,5 +1,7 @@
 ![Research Automation](https://github.com/user-attachments/assets/84f83fd1-9d78-4f77-ab22-90bbe3f2740f)
 
+> Plan and develop automated research programs.
+
 > 
 
 [Research Automation](https://chatgpt.com/g/g-1RlqAhxFH-research-automation) was developed to enhance and streamline the development of Python-based research programs. It automates key research tasks, such as data collection, analysis planning, and workflow integration, making research processes more efficient and aligned with specific objectives. By leveraging Python's capabilities, it helps researchers structure and optimize their activities, ensuring that their work is grounded in the latest methodologies and tools.
